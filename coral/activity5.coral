@@ -1,0 +1,12 @@
+integer i
+
+// Loo pvariable initialization
+i = 10
+
+// Loop expression
+while i <= 50
+   Put i to output
+   Put " " to output
+   
+   // Loop variable update
+   i = i + 5
